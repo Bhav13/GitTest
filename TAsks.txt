@@ -1,0 +1,21 @@
+1)Lombok Plugin
+Updating annotations in each class of each modules in cloud infra.
+2)Without Restarting the Application or module or service. 
+If we try to update something in config.. it should get reflect in application without restarting the server or application etc
+3)
+
+
+https://github.com/vidhya03/http-patch-jax-rs/blob/master/src/test/resources/spotbugs-viewer-gui.png
+
+https://spotbugs.github.io/
+
+,Charset.defaultCharset()
+
+Deivamani, Vidhyadharan:  
+use intellij for java
+yes correct 
+https://github.com/daggerok/spotbugs-example/blob/master/build.gradle 
+https://github.com/daggerok/spotbugs-example 
+ 
+http://repo.maven.apache.org/maven2/com/github/spotbugs/spotbugs/3.1.12/spotbugs-3.1.12.zip 
+https://spotbugs.readthedocs.io/en/stable/installing.html 
