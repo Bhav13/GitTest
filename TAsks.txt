@@ -1,4 +1,4 @@
-1)Lombok Plugin
+1)stumbok Plugin
 Updating annotations in each class of each modules in cloud infra.
 2)Without Restarting the Application or module or service. 
 If we try to update something in config.. it should get reflect in application without restarting the server or application etc
